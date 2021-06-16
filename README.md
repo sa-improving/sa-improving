@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 #### Backend
 <p float="left">
-  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.netasp%20-%236DB33F.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/csharp-%23ED8B00.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlserver-%2300f.svg?&style=for-the-badge&logo=sqlserver&logoColor=white"/>
 </p>
 
 
